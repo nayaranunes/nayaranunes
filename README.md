@@ -15,6 +15,6 @@
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"></code>
 
-<strong>My stats on Github<strong>
+<p><strong>My stats on Github<strong><p>
 ![Nayara GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayaranunes&show_icons=true)
 
