@@ -15,5 +15,5 @@
 
 *My stats on Github*
 
-![Nayara GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![Nayara GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayaranunes&show_icons=true)
 
