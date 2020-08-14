@@ -1,5 +1,4 @@
-### Hello World! 👋✨
-<code><img height="30" src="https://media3.giphy.com/media/Ur1ePKk5h82J2nKUmm/source.gif"></code>
+### 👋✨Hello World!<code><img height="30" src="https://media3.giphy.com/media/Ur1ePKk5h82J2nKUmm/source.gif"></code>
 - Computer science student 
 <!--
 **nayaranunes/nayaranunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
