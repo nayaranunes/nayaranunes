@@ -11,6 +11,7 @@
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png"></code>
+<code><img height="30" scr="https://miro.medium.com/max/600/1*3QuStAoBvGDert0vraHGnQ.png"></code>
 <code><img height="30" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"></code>
 
