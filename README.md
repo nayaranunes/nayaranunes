@@ -10,7 +10,7 @@
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png"></code>
-<code><img height="30" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png"></code>
+<code><img height="30" src="https://chocolatey.org/content/packageimages/vscode-spring-boot.1.19.0.png"></code>
 <code><img height="30" src="https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/favicon.ico"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"></code>
