@@ -13,10 +13,10 @@
 <p><code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code><p>
 <li><code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code></li>
 <li><code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png"></code></li>
-</ul>
-- <code><img height="30" src="https://chocolatey.org/content/packageimages/vscode-spring-boot.1.19.0.png"></code>
-- <code><img height="30" src="https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/favicon.ico"></code>
-- <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code>
-- <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"></code>
+<li><code><img height="30" src="https://chocolatey.org/content/packageimages/vscode-spring-boot.1.19.0.png"></code></li>
+<li><code><img height="30" src="https://docs.spring.io/spring/docs/current/spring-framework-reference/pdf/favicon.ico"></code></li>
+<li><code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code></li>
+<li><code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"></code></li>
 ![Nayara GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayaranunes&show_icons=true)
+  </ul>
 
