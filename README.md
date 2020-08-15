@@ -10,7 +10,7 @@
 
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png"> 
 <ul>
-<p><code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code><p>
+<li><code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code></li>
 <li><code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code></li>
 <li><code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png"></code></li>
 <li><code><img height="30" src="https://chocolatey.org/content/packageimages/vscode-spring-boot.1.19.0.png"></code></li>
