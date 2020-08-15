@@ -1,8 +1,5 @@
-<!--
 ### 👋✨Hello World!<code><img height="30" src="https://joaocouto-espinho.com/img-places/globe-rotat.gif"></code>
--->
 
-<code><img height="120" src="https://media2.giphy.com/media/EEy7Qip0YZ27PPtC7y/source.gif"></code>
 - Computer science student 
 
 <!--
