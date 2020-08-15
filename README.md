@@ -1,4 +1,4 @@
-### 👋✨Hello World!<code><img height="30" src="https://cdn.lowgif.com/full/5a0ffbfd3827b7e6-earth-spinning-gif-find-share-on-giphy.gif"></code>
+### 👋✨Hello World!<code><img height="30" src="https://media3.giphy.com/media/fGzLKP7KN4W81JePXZ/giphy.gif"></code>
 - Computer science student 
 <!--
 **nayaranunes/nayaranunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
