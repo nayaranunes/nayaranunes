@@ -1,8 +1,7 @@
 ### 👋✨Hello World!<code><img height="18" width="20" src="https://joaocouto-espinho.com/img-places/globe-rotat.gif"></code>
 
-- Computer science student 
-
 <!--
+- Computer science student 
 **nayaranunes/nayaranunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
@@ -16,4 +15,6 @@
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"></code> 
 
+<!--
 ![Nayara GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayaranunes&show_icons=true)
+-->
