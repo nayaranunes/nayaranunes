@@ -9,7 +9,7 @@
 <p><strong>Languages and Tools:<p><strong>
 
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png"> 
-<p><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code><p>
+<p><code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code><p>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-5-569524.png"></code>
 <code><img height="30" src="https://chocolatey.org/content/packageimages/vscode-spring-boot.1.19.0.png"></code>
