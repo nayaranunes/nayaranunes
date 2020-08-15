@@ -7,8 +7,6 @@
 -->
 
 <p><strong>Languages and Tools:<p><strong>
-
-<ul>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/java-23-225999.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png"></code>
@@ -18,5 +16,4 @@
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/github-170-1175028.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"></code> 
 
-</ul>
 ![Nayara GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayaranunes&show_icons=true)
