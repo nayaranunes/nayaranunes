@@ -1,4 +1,4 @@
-### 👋✨Hello World!<code><img height="25" width="25" src="https://joaocouto-espinho.com/img-places/globe-rotat.gif"></code>
+### 👋✨Hello World!<img height="25" width="25" src="https://joaocouto-espinho.com/img-places/globe-rotat.gif">
 
 <!--
 - Computer science student 
