@@ -8,6 +8,8 @@
 <p><strong>Junior Software Engineer<p><strong>
 <p>I'm Nayara, 21 years old. I currently work at Itaú's bank as a backend developer.<p>
 
+I'm studying about serverless projects based on AWS, FasS.
+
 My biggest wish is to work on a project that really has social meanings for women in technology. In the meantime, I'm working to make money.
   
 "Your self-worth is determined by you. You don't have to depend on someone telling you who you are" B
