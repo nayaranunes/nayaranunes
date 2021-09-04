@@ -8,7 +8,9 @@
 <p><strong>Junior Software Engineer<p><strong>
 <p>I'm Nayara, 21 years old. I currently work at Itaú's bank as a backend developer.<p>
 
-My biggest dream is to work on a project that really has social meanings for women in technology. In the meantime, I'm working to make money.
+My biggest wish is to work on a project that really has social meanings for women in technology. In the meantime, I'm working to make money.
+  
+"Your self-worth is determined by you. You don't have to depend on someone telling you who you are" B
 <!--
 ![Nayara GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayaranunes&show_icons=true)
 !<img align="left" alt="IntelliJ" width="35px" height="35px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png">
