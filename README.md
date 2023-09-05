@@ -5,13 +5,10 @@
 **nayaranunes/nayaranunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<p><strong>Fashion model and computer science self taught<p><strong>
-<p>我叫 Nayara I am 23 years old<p>
+<p><strong>我叫 Nayara. I'm a fashion model and computer science student.<p><strong>
 
-I'm studying devops development culture and mandarin 
+My top desire is to be part of a project that carries genuine social significance for women in technology.
 
-My biggest wish is to work on a project that really has social meanings for women in technology. 
-  
 <!--
 
 "Your self-worth is determined by you. You don't have to depend on someone telling you who you are" B
