@@ -7,7 +7,7 @@
 
 <p><strong>我叫 Nayara. I'm a fashion model and computer science student.<p><strong>
 
-My top desire is to be part of a project that carries genuine social significance for women in technology.
+Don't discourage women in technology.
 
 <!--
 
